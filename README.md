@@ -7,3 +7,7 @@ Learning Git and Github
 
 watch tutuorial on Youtube.
 Waatup!!!!
+
+## Local Development
+
+1. Open idex.html in your browser
